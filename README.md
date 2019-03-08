@@ -26,5 +26,5 @@
  
 **Contact Us**
 
-Facebook : https://www.facebook.com/jundana.albasyir
-Instagram : https://www.instagram.com/justjundana/
+- Facebook : https://www.facebook.com/jundana.albasyir
+- Instagram : https://www.instagram.com/justjundana/
