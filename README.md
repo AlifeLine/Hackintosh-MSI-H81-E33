@@ -14,9 +14,9 @@
  - Bootloader: Clover (UEFI)
  - OS Version : macOS Mojave 10.14.3
 
-**Working :**
+**Work :**
 
- - Full QE/CI + Native Power Management
+ - Full QE/CI
  - Intel HD Graphics 4400
  - USB ports 3.0/2.0
  - Audio
